@@ -1,0 +1,5 @@
+.root {
+  -fx-font-family              : "courier new";
+  -fx-font-size                : 22px;
+  -fx-font-weight              : bold;
+}
