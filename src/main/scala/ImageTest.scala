@@ -23,7 +23,7 @@ object ImageTest extends JFXApp {
         val img = SwingFXUtils.toFXImage(bufferedImage, null)
 
         //jpg
-        //val image = new Image("file:d:\\1.jp2")
+        //val img = new Image("file:res/1.jpg")
 
         val image = new Image(img)
         val imageView = new ImageView
